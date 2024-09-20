@@ -36,7 +36,7 @@ public class Object03 {
 		
 		// 클래스명의 클래스의 새로운 객체를 생성 
 		// >> 해당 객체에 대한 참조(주소)를 클래스 타입의 변수에 저장 
-	     Car myCar = new Car("porshe panamera", 2024);
+	     Car myCar = new Car("porsche panamera", 2024);
 
 	     // 객체 사용 
 	     // 1. 필드 접근 (.연산자)

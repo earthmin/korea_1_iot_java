@@ -63,18 +63,4 @@ public class OrderModel {
 		return isComplete();
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
